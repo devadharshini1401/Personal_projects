@@ -1,0 +1,77 @@
+Equip_id,Equip_desc,Equip_code
+1,Voice Prosthetics,VP1
+2,Ostomy Supplies,OS2
+3,Oxygen Equipment and/or Supplies,OEA3
+4,Gastric Suction Pumps,GSP4
+5,Breast Prostheses and/or Accessories,BPA5
+6,Wheelchair Seating/Cushions,WS6
+7,Blood Glucose Monitors/Supplies (Mail Order),BGM7
+8,Epoetin,E8
+9,Wheelchairs (Complex Rehab Power Rel Accessories),WCR9
+10,Insulin Infusion Pumps and/or Supplies,IIP10
+11,Diabetic Shoes and Inserts,DSA11
+12,Respiratory Assist Devices,RAD12
+13,Heat & Cold Applications,HCA13
+14,Patient Lifts,PL14
+15,Penile Pumps,PP15
+16,Traction Equipment,TE16
+17,"Commodes, Urinals, Bedpans",CUB17
+18,Orthoses: Prefabricated (Non-Custom Fabricated),OPN18
+19,Contracture Treatment Devices: Dynamic Splint,CTD19
+20,(TENS) Transcutaneous Electrical Nerve Stimulators and/or Supplies,TTE20
+21,Diabetic Shoes/Inserts - Custom,DSC21
+22,Wheelchairs (Standard Power Related Accessories),WSP22
+23,Urological Supplies,US23
+24,Immunosuppressive Drugs,ID24
+25,Infusion Drugs,ID25
+26,Seat Lift Mechanisms,SLM26
+27,Wheelchairs (Standard Manual Related Accessories),WSM27
+28,Wheelchairs (Complex Rehabilitative Manual),WCR28
+29,External Infusion Pumps and/or Supplies,EIP29
+30,Neurostimulators and/or Supplies,NAS30
+31,Support Surfaces: Pressure Reducing Beds/Mats/Pads,SSP31
+32,Limb Prostheses,LP32
+33,Enteral Nutrients,EN33
+34,Enteral Equipment and/or Supplies,EEA34
+35,Wheelchairs (Standard Power),WSP35
+36,Hospital Beds (Electric),HBE36
+37,Pneumatic Compression Devices and/or Supplies,PCD37
+38,Parenteral Equipment and/or Supplies,PEA38
+39,Respiratory Suction Pumps,RSP39
+40,Wheelchairs (Complex Rehab Manual Rel Accessories),WCR40
+41,Implanted Infusion Pumps and/or Supplies,IIP41
+42,Canes and/or Crutches,CAC42
+43,Blood Glucose Monitors/Supplies (Non-Mail Order),BGM43
+44,Nebulizer Drugs,ND44
+45,Speech Generating Devices,SGD45
+46,Parenteral Nutrients,PN46
+47,Mechanical In-Exsufflation Devices,MID47
+48,Automatic Ext Defibrillator (AEDS) and/or Supplies,AED48
+49,High Freq Chest Wall Oscillation Devices/Supplies,HFC49
+50,Continuous Positive Airway Pressure (CPAP) Devices,CPA50
+51,Oral Antiemetic Drugs,OAD51
+52,Intrapulmonary Percussive Ventilation Devices,IPV52
+53,Prosthetic Lenses: Conventional Eyeglasses,PLC53
+54,Ocular Prostheses,OP54
+55,Intermittent Positive Pressure Breathing IPPB DEV,IPP55
+56,Nebulizer Equipment and/or Supplies,NEA56
+57,Surgical Dressings,SD57
+58,Tracheotomy Supplies,TS58
+59,Ventilators Accessories and/or Supplies,VAA59
+60,Prosthetic Lenses: Conventional Contact Lenses,PLC60
+61,Facial Prostheses,FP61
+62,Wheelchairs (Standard Manual),WSM62
+63,Hospital Beds (Manual),HBM63
+64,Continuous Passive Motion (CPM) Devices,CPM64
+65,Oral Anticancer Drugs,OAD65
+66,Power Operated Vehicles (Scooters),POV66
+67,Infrared Heating Pads Systems and/or Supplies,IHP67
+68,Orthoses: Custom Fabricated,OCF68
+69,Neuromuscular Elect Stimulators (NMES)/Supplies,NES69
+70,Orthoses: Off-The-Shelf,OO70
+71,Negative Pressure Wound Therapy Pumps/Supplies,NPW71
+72,Osteogenesis Stimulators,OS72
+73,Walkers,W73
+74,Ultraviolet Light Devices and/or Supplies,ULD74
+75,Prosthetic Lenses: Prosthetics Cataract Lenses,PLP75
+76,Wheelchairs (Complex Rehabilitative Power),WCR76
